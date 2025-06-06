@@ -35,6 +35,4 @@ python3 six_handshackes.py "https://en.wikipedia.org/wiki/Sudanese_civil_war_(20
 ![image](https://github.com/user-attachments/assets/273d7c48-7e94-4583-9c63-226aecc9409b)
 
 
-python3 six_handshackes.py "https://en.wikipedia.org/wiki/Sudanese_civil_war_(2023–present" "https://en.wikipedia.org/wiki/Rapid_Support_Forces" 100
-
 
